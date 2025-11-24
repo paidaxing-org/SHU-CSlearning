@@ -1,0 +1,26 @@
+_FATCH_     T0 00 CBFFFF
+               01 FFFFFF
+               02 FFFFFF
+               03 FFFFFF
+LD A,#*    T1 04 C7FFF7
+            T0 05 CBFFFF
+               06 FFFFFF
+               07 FFFFFF
+A-W A,#*   T2 08 C7FFEF
+            T1 09 FFFE91
+            T0 0A CBFFFF
+               0B FFFFFF
+Ìøµ½*      T1 0C C6FFFF
+            T0 0D CBFFFF
+               0E FFFFFF
+               0F FFFFFF
+OUTA        T1 10 FFDF9F
+            T0 11 CBFFFF
+               12 FFFFFF
+               13 FFFFFF
+ÑÓÊ±        T3 14 FFFFFF
+            T2 15 FFFFFF
+            T1 16 FFFFFF
+            T0 17 CBFFFF
+
+
