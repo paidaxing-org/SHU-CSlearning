@@ -1,0 +1,4 @@
+﻿  test.cpp
+H:\大学相关资料\学习相关\专业课\大二专业课\数据结构(2)\第六章上机\UFsets\ufsets\test.cpp(8,34): warning C4838: 从“double”转换到“int”需要收缩转换
+H:\大学相关资料\学习相关\专业课\大二专业课\数据结构(2)\第六章上机\UFsets\ufsets\test.cpp(8,34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ufsets.vcxproj -> H:\大学相关资料\学习相关\专业课\大二专业课\数据结构(2)\第六章上机\UFsets\ufsets\x64\Debug\ufsets.exe
