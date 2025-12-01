@@ -1,0 +1,7 @@
+一、
+A C C A C A A B A A D A C D c
+A C C A C C A B A A C A C D D
+                 ↑               ↑            ↑
+二、
+1、G  E  F  I
+2、 B  F/H  J   I
