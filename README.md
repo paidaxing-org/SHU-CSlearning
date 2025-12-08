@@ -5,16 +5,26 @@
 
 
 
-# 目前已upload资料的专业课表
+## 目前已upload资料的专业课表
 
 |          名称          |                             链接                             |
 | :--------------------: | :----------------------------------------------------------: |
-|     C语言程序设计      | [SHU-CSlearning/C语言程序设计 at main · paidaxing-org/SHU-CSlearning](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/C语言程序设计) |
-|       数字逻辑A        | [SHU-CSlearning/数字逻辑A at main · paidaxing-org/SHU-CSlearning](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/数字逻辑A) |
-|    面向对象程序设计    | [SHU-CSlearning/面向对象程序设计 at main · paidaxing-org/SHU-CSlearning](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/面向对象程序设计) |
-| 计算机组成原理实验(一) | [SHU-CSlearning/计算机组成原理实验(一) at main · paidaxing-org/SHU-CSlearning](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理实验(一)) |
-| 计算机组成原理实验(二) | [SHU-CSlearning/计算机组成原理实验(二) at main · paidaxing-org/SHU-CSlearning](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理实验(二)) |
-|      数据结构(二)      | [SHU-CSlearning/数据结构(二) at main · paidaxing-org/SHU-CSlearning](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/数据结构(二)) |
+|     C语言程序设计      | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/C语言程序设计) |
+|       数字逻辑A        | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/数字逻辑A) |
+|    面向对象程序设计    | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/面向对象程序设计) |
+| 计算机组成原理实验(一) | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理实验(一)) |
+| 计算机组成原理实验(二) | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理实验(二)) |
+|      数据结构(二)      | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/数据结构(二)) |
+
+## 
+
+## 目前已upload资料的专业选修课表
+
+|        名称        |                             链接                             |
+| :----------------: | :----------------------------------------------------------: |
+|      编码理论      | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/编码理论) |
+| Java程序设计(实验) | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/java程序设计(实践)) |
+| to be continued... |                                                              |
 
 ## 
 
