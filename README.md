@@ -14,6 +14,10 @@
 | 计算机组成原理实验(一) | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理实验(一)) |
 | 计算机组成原理实验(二) | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理实验(二)) |
 |      数据结构(二)      | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/数据结构(二)) |
+|   计算机组成原理(二)   | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理(二)/小组作业) |
+|   to be continued...   |                                                              |
+
+
 
 ## 目前已upload资料的专业选修课表
 
