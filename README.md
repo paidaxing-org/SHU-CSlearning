@@ -20,6 +20,7 @@
 |      数据结构(二)      | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/数据结构(二)) |
 |   计算机组成原理(二)   | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理(二)/小组作业) |
 |      大学物理(三)      | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/大学物理(三)) |
+|        软件工程        | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/软件工程) |
 |   to be continued...   |                              /                               |
 
 
