@@ -1,0 +1,4 @@
+SET STATISTICS TIME ON;
+SELECT xh, xm
+FROM S
+WHERE xh > (SELECT xh FROM S WHERE xm = '张颖') AND csrq > (SELECT csrq FROM S WHERE xm = '张颖');

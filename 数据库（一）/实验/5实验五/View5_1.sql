@@ -1,0 +1,6 @@
+--USE gyqk
+CREATE VIEW view5_1 as
+SELECT JNO, SUM(QTY) as S_num FROM SPJ
+GROUP BY JNO;
+SELECT JNO FROM view5_1
+WHERE S_num > 50;
