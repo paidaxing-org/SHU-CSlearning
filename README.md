@@ -21,7 +21,11 @@
 |   计算机组成原理(二)   | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机组成原理(二)/小组作业) |
 |      大学物理(三)      | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/大学物理(三)) |
 |        软件工程        | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/软件工程) |
+|       计算机网络       | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/计算机网络) |
+|    数据库原理（一）    | [点此跳转](https://github.com/paidaxing-org/SHU-CSlearning/tree/main/数据库（一）) |
 |   to be continued...   |                              /                               |
+
+
 
 
 
@@ -86,3 +90,13 @@ add- 大学物理(三)
 add- 软件工程
 
 modify- README.md(日常修改，增加了叠甲部分~)
+
+## 2026-4-27
+
+update- 软件工程
+
+update- 计算机网络
+
+update- 数据库原理（一）
+
+modify- README.md
